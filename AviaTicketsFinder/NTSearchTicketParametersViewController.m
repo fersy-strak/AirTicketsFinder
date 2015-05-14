@@ -48,7 +48,7 @@ NTCity *arrivalCity;
     
     NSDateComponents *dateComponents = [NSDateComponents new];
     dateComponents.month = 11;
-    dateComponents.day = 30;
+    dateComponents.day = 29;
     NSDate *newDate = [[NSCalendar currentCalendar]dateByAddingComponents:dateComponents
                                                                    toDate:[NSDate date]
                                                                   options:0];
