@@ -1,5 +1,7 @@
-# AirTicketsFinder
+# AirTicketsFinder - iOS Flight Ticket Searching App
 
-1)search titles of cities and rusults made in English 
+AirTicketsFinder is a simple app that allows you to search and compare flight tickets on your iOS device. With its easy-to-use interface and advanced search features, you can quickly find the best deals on flights and save time and money.
 
-2)project was tested on iOS 8.*
+Technical Details
+- Developed using Objective C and tested on iOS 8.
+- Optimized for iPhone devices.
